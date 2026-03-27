@@ -41,7 +41,7 @@ Job     | 6 CLEAN-COINS |
 
 ## Project Structure
 
-
+```
 CleanChain_blockchain/
      │
      ├── blockchain.js # Blockchain logic
@@ -55,7 +55,7 @@ CleanChain_blockchain/
      ├── balances.json # Token balances
      ├── wallets.json # Stored wallet keys
      └── package.json
-
+```
 
 ---
 
