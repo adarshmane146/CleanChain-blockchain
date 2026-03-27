@@ -43,18 +43,18 @@ Job     | 6 CLEAN-COINS |
 
 
 CleanChain_blockchain/
-│
-├── blockchain.js # Blockchain logic
-├── wallet_utils.js # Wallet + cryptographic signatures
-├── cli.js # Command line interface
-├── wallet.js # Wallet dashboard
-├── crypto_utils.js # Cryptographic helper functions
-├── main.js # Blockchain runner
-├── run_script.js # Test script
-├── test_wallet.js # Wallet test
-├── balances.json # Token balances
-├── wallets.json # Stored wallet keys
-└── package.json
+     │
+     ├── blockchain.js # Blockchain logic
+     ├── wallet_utils.js # Wallet + cryptographic signature s
+     ├── cli.js # Command line interface
+     ├── wallet.js # Wallet dashboard  
+     ├── crypto_utils.js # Cryptographic helper functions
+     ├── main.js # Blockchain runner
+     ├── run_script.js # Test script
+     ├── test_wallet.js # Wallet test
+     ├── balances.json # Token balances
+     ├── wallets.json # Stored wallet keys
+     └── package.json
 
 
 ---
